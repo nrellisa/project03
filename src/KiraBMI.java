@@ -34,7 +34,7 @@ public static void main(String[] args){
         Ulasan="berlebihan";
         
     }else{
-        Ulasan="gemuk";
+        Ulasan="terlalu gemuk";
     }
     System.out.println("Anda mempunyai berat badan yang "+Ulasan);
 }
